@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Sir Maurice Eustace Knight, His Maiesties serjeant at law in the kingome of Ireland, and speaker of the House of Commons, in Parliament there being a perfect relation of the last true newes from Ireland.</title>
+            <author>Eustace, Maurice, Sir, ca. 1590-1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22618</idno>
+            <idno type="STC">Wing E3427</idno>
+            <idno type="EEBO-CITATION">13071530</idno>
+            <idno type="OCLC">ocm 13071530</idno>
+            <idno type="VID">197857</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B22618)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197857)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 265:E238, no 13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Sir Maurice Eustace Knight, His Maiesties serjeant at law in the kingome of Ireland, and speaker of the House of Commons, in Parliament there being a perfect relation of the last true newes from Ireland.</title>
+                  <author>Eustace, Maurice, Sir, ca. 1590-1661.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. G. for I. Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed &amp; dated at end: Dublin April 24, 1642 ... Mau. Eustace.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197857:1" rendition="simple:additions"/>
+            <p>A LETTER FROM Sir Maurice Euſtace Knight, His Maieſties Serjeant at Law in the Kingdome of IRELAND, and Speaker of the <hi>Houſe of Commons,</hi> in <hi>Parliament</hi> there.</p>
+            <p>Being a perfect Relation of the laſt true Newes from IRELAND.</p>
+            <figure>
+               <figDesc>printer's device (McKerrow 382)</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. G.</hi> for <hi>I. Wright.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:197857:2"/>
+            <pb facs="tcp:197857:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Might have taken occaſion many times ſince, you went from hence to have written unto you, concerning the Earle of <hi>Ormond,</hi> for in this great and generall apoſtacie, which hath happened in this Kingdome, no man of either Nation hath ſtood more firme to the Crowne of England, nor ventured his owne perſon further for the ſup<g ref="char:EOLhyphen"/>preſſing of the preſent rebellion then his Lordſhip hath done. I could write much to demonſtrate this, if there were any doubt to be made thereof: But this being a truth, which cannot but be acknowledged by all, I paſſe it over, &amp; will only give you account of his Lordſhips laſt journey, into our parts of the province of <hi>Leinſter,</hi> where in a pitcht field upon fryday laſt in the afternoone, betweene th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ures of two and three; his Lordſhip gave in a field betweene <hi>Kelruſh,</hi> and <hi>Rathemoore,</hi> a great overthrow to the whole power of the coun<g ref="char:EOLhyphen"/>ties o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Wick<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>w, Wexford, Cathercaghe, Kildare,</hi> Queenes County, <hi>Kilkenny, Tip<g ref="char:EOLhyphen"/>perarie</hi> and ſome <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orces which were drawne out of the County of <hi>Weſtmeathe.</hi> And in this Battaile, he had to deale with his great Uncle, the Lord Viſcount <hi>M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>untgarret,</hi> his owne brother Mr. <hi>Richard Butler,</hi> the Lord of <hi>Iker<g ref="char:EOLhyphen"/>ni<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> marryed to his Aunt, and the Lord of <hi>Dunboyne,</hi> his neere kinſman, <hi>Tib<g ref="char:EOLhyphen"/>bet Funcell</hi> commonly knowne by the name of Baron <hi>Locher,</hi> who is marryed to his Lordſhips Aunt, and whoſe Sonne and heire, is marryed to his Lordſhips Siſter; you<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g <hi>Bagnau</hi> who is Couſin German to his Lordſhip; <hi>Philip O darre,</hi> Mr. <hi>Walter,</hi> and moſt of the Gentry of our Counties of <hi>Kilkenny,</hi> and <hi>Tippera<g ref="char:EOLhyphen"/>rie;</hi> Generall <hi>Hugh Birne,</hi> Sir <hi>Morgan Cavenaugh,</hi> Colonell <hi>Fitz Gerrald</hi> of Bal<g ref="char:EOLhyphen"/>lyſoran, Colonell <hi>Talbot,</hi> Colonell <hi>Moore,</hi> Colonell <hi>Sutton,</hi> Mr. <hi>Rob. Ha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pole,</hi> Mr. <hi>Thomas Davills;</hi> and many more of great rank and condition, who were all beaten, and put to a moſt ſhamefull flight by his Lordſhip, who in the time of that battell, did like <hi>Levy</hi> forget father &amp; mother, neither did acknowledge his owne brethren, nor neereſt kinſmen, but purſued them to the death. A ſer<g ref="char:EOLhyphen"/>vice never to be forgotten, but to be had in remembrance, to his everlaſting honour. I give you this in groſe at firſt, becauſe I would not keepe the beſt newes, which hitherto wee have had long from you. And now having ſatis<g ref="char:EOLhyphen"/>fied you to the full, give me leave to digeſt it further unto you, wherein I will faithfully and truly ſet forth unto you every dayes ſervice.</p>
+            <p>Upon Saturday the ſecond of this moneth, the Earle of <hi>Ormond</hi> did march from this City of <hi>Dublin</hi> towards the <hi>Naas,</hi> with 3000. Foot, and 500. Horſe, and did encampe that night at <hi>Rathecoole,</hi> which is ſix miles from this City; his Lordſhip was not above two miles on his way, when a poſt was ſent after him, to let his Lordſhip know, that his Counteſſe &amp; Children, were landed at the Rings end, which many did think would have brought himſelfe back that
+<pb facs="tcp:197857:3" rendition="simple:additions"/>night; But his mind was ſo intent upon the great buſineſſe of the Kingdome about which he was then ſent, that though he had not ſeene his Counteſſe nor Children in ſix moneths before, and could not aſſure himſelfe that hee ſhould live to ſee them, if that he omitted that opportunity, yet neither this nor any other conſideration could bring him back from the Army, but lodged with them in the fields that night, as if the ſpirit of that great warryer <hi>Vriah</hi> had beene in him, who ſaid, The ſervants of my Lord are encamped in the open field, ſhall I then goe to my houſe to eate and to drinke, and to lie with my wife, I will not doe this thing.</p>
+            <p>Upon Sunday his Lordſhip marched from thence, the mountaine way to the <hi>Naas,</hi> and burned all that part of the Country, and encamped there that night; there was no oppoſition given by the enemy all that way, only at <hi>Tip<g ref="char:EOLhyphen"/>per,</hi> which is within one mile of the <hi>Naas,</hi> there was ſome ſhot made at ſome of our men, who went thither out of the Caſtle by ſome of the Rebells; there we loſt a trumpeter, and foure of our Souldi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, beſides ſix which were hurt, which ſo inraged our men, that they ſent for a barrell of powder to the <hi>Naas,</hi> and having made their approach unto it blew it up, and all who were in it, except <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hree men, who were taken and hanged, there was in the Caſtle a Fri<g ref="char:EOLhyphen"/>ar, unckle to <hi>Sutton</hi> of <hi>Tipper,</hi> a fit incendiary to be blown up amongſt the reſt, for it is ſuch fiery ſpirits, which have put this poore and miſerable Kingdom into that flame, wherein now it is: upon Munday, the hurt Souldiers were ſent from the <hi>Naas</hi> to this City upon Carres, with a convoy of twelve horſe, but theſe being ſet upon betweene <hi>Rathecoole,</hi> and this City by ſome of the Re<g ref="char:EOLhyphen"/>bells, they were forced to leave the wounded men, to the cruelty of the Re<g ref="char:EOLhyphen"/>bells, who moſt barbarouſly and cruelly murthered them, and the poore in<g ref="char:EOLhyphen"/>nocent Car men, who it may be did wiſh them better then our ſide.</p>
+            <p>This accident thus happening, it ſtopped all intercourſe, betweene our Ar<g ref="char:EOLhyphen"/>my and the ſtate, neither being able to ſpaire that ſtrength, which might paſſe with ſafetie betweene them, which kept us and them in ignorance, untill their returne to us, we not knowing how the Army did move, nor the army hearing from us, which was a mighty advantage unto the rebells, and a very great diſadvantage unto our deſignes.</p>
+            <p>Upon Tueſday at night, our Army came to <hi>Athye</hi> and raiſed that Seidge, but the Towne, smen not knowing of the approach of our Army, and being hard ſet to by the Rebells the night before fired moſt part of the out Towne not being able to keep it, which was ſome diſappointment to our army vvhen they came to quarter there.</p>
+            <p>Upon Wedneſday, his Lordſhip reſted there with the Army, but ſent Sir <hi>Patrick Weames</hi> Captaine of his owne troup, Captaine <hi>Armeſtrong,</hi> and Cap<g ref="char:EOLhyphen"/>taine <hi>Harman</hi> to <hi>Catherlagh,</hi> to releeve the Caſtle there, which for a long time had beene beleagured by the Rebells, but their Scouts diſcovering our troups
+<pb facs="tcp:197857:3"/>gave notice thereof to the Rebells, and thereupon they fired the towne and betooke themſelves to flight, which our horſe perceiving, made what haſte they could after them and killed of them in the chaſe, 70. men, and had done execution upon the reſt, but that they betooke themſelves to a Bogg, where our horſe could not ſerve upon them; But they releeved the Caſtle, and like<g ref="char:EOLhyphen"/>wiſe the Caſtle of <hi>Clogh grevan,</hi> and returned that night to the Army. There was 700. of the Rebells in the Towne of <hi>Catherlagh,</hi> when our horſe made their approach thither. The ſame day was the Caſtle of <hi>Ballylivan</hi> likewiſe releeved by ſome horſe, which his Lordſhip ſent thither.</p>
+            <p>Upon Thurſday his Lordſhip marched to <hi>Stradebally;</hi> where hee encamped that night, but left Colonell <hi>Crafforde</hi> at <hi>Athy,</hi> with ſome foot and horſe to make good the Towne untill his Lordſhips returne; and the next day came to <hi>Marriborrow,</hi> and releeved the ſort there, which is a place of very great con<g ref="char:EOLhyphen"/>ſequence; and ſeated amongſt ill and dangerous neighbours.</p>
+            <p>Upon Saturday his Lordſhip was taken with a burning feaver, which toge<g ref="char:EOLhyphen"/>ther with a great Flux, held him untill Tueſday; the one did abate the vio<g ref="char:EOLhyphen"/>lence and rage of the other; that Saturday Sir <hi>Charles Coot,</hi> and Sir <hi>Thomas Lucas,</hi> with ſome troupes of horſe releeved <hi>Ballynekill,</hi> and the Burris, and killed divers of the Rebells, which lay before <hi>Ballynekill</hi> to the number of 80. and returned that night to <hi>Marriborow</hi> upon the Sunday being Eaſter day, Sir <hi>Charles Coot,</hi> and Sir <hi>Thomas Lucas</hi> went with 250 horſe, and releeved <hi>Birr</hi> and ſome other places, which were much diſtreſſed: The horſe had of this a very hard ſervice, being to paſſe through woods, Boggs, and great faſtneſſe, and in their way, had many skirmiſhes with the Rebells, but alwayes had the good fortune to beat them, many horſes were loſt this journey, and it is Gods great goodneſſe, that we did not ſuffer in this more then vve did.</p>
+            <p>Whilſt theſe things were in acting, the Rebells did gather together from the Counties formerly mentioned; and upon Eaſter Sunday diſplayed a<g ref="char:EOLhyphen"/>bove forty Colours, within two miles of <hi>Athy,</hi> on the further ſide of the Bur<g ref="char:EOLhyphen"/>row in the Queenes County; whereof Colonell <hi>Crafforde</hi> gave notice unto my Lord of <hi>Ormond</hi> by letters, and thereupon his Lordſhip returned back to <hi>Athy</hi> upon Wedneſday, and reſted there with the Army upon Thurſday.</p>
+            <p>That Thurſday, his Lordſhip ſent to Sir <hi>Patrick Weames,</hi> and Captaine <hi>Armes-ſtrong,</hi> who were quartered at <hi>Grangomelan</hi> on this ſide of the river of the Barrow, and in a direct line oppoſite to the place on the other ſide of the river, where the enemy was encamped to diſcover their number and ſtrength, whereupon they ſent out ten of their horſe to informe them of the truth here<g ref="char:EOLhyphen"/>of, which being perceived by the enemy, they ſent 30. Horſemen over the ri<g ref="char:EOLhyphen"/>ver, and each Horſeman had a Muſquetier behind him, vvith an intention to cut off thoſe ten Horſemen of ours, but this being diſcovered by Sir <hi>Patrike Weames,</hi> and Captaine <hi>Armeſtrong,</hi> they ſallyed forth vvith ſome horſe, cut off
+<pb facs="tcp:197857:4"/>of the Musketiers, killed two of the horſe-men, and the reſt did in their haſte miſſe the ford, and ſwimmed over the river, where ſome of them were drow<g ref="char:EOLhyphen"/>ned. Sir <hi>Patricke Weames</hi> had his Horſe killed under him in that ſervice.</p>
+            <p>This being notified to the Earle of <hi>Ormond,</hi> his Lordſhip came thither with ſome Troopes of H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſe to view the enemy, who appeared on the other ſide of the River of the <hi>Barrow</hi> at a place called <hi>Tankerdſtowne</hi> right over againſt <hi>Grangemellam,</hi> and as his Lordſhip and the reſt of the Commanders who were then with him could judge, they could be no leſſe then ſix or ſeven thou<g ref="char:EOLhyphen"/>ſand foot, beſides 300. horſe. His Lordſhip thus ſatisfied by his owne eye, returned to <hi>Athy,</hi> and gave out that the next day h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would draw out of the Towne and advance thither to fight with them, but his reſolution was to march away the next day, &amp; in regard that he had done the buſineſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, he went for, not to ſight upon ſuch oddes, if that he might avoyd it. But this was not ſo ſecretly carried, but the enemy had notice thereof, which made <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> to diſlodge that night, and to paſſe over the River by the Bridge of <hi>Moygame,</hi> and prepare themſelves for a purſuit.</p>
+            <p>Upon Friday morning about ſeven of the clocke our Army did riſe, and began their march, and kept the high and neereſt way coward this City, but they were not halfe a mile on their way, when they diſcovered their bels marching wide of them on the right hand in another rode way, and it <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that there was a bog which was three quarters of a mile in bredth betweene both the Armies, which ranne betweene them for three or foure miles; and ſo they marched in view of each other all that way, with their Colours flying and Drums bearing; when our Army halted they likewiſe halted, and when ours did move they did move, and ſo they kept this poſture untill both waies did meet, by which time the vantgard of the Rebels was within 3 furlongs of our van. And at the meeting of both the waies there was a narrow paſſage through which our Army was to paſſe, where it was thought the enemy did intend to charge our reare, and cut off our men, which if we had advanced forward, they might have done with much eaſe, it being a place of very great advantage for the enemy, which the Earle of <hi>Ormond</hi> perceiving, he cauſed Sir <hi>Charles Coote</hi> who commanded in chiefe under his Lordſhip, and the reſt of the Commanders and Officers of the field together, and told them that before he went any further he would fight with the enemy, though all the Rebels in <hi>Ireland</hi> we<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e there together, to which they all moſt cheerfully and willing aſſented and his Lordſhip further told them that they had God and a good curſe on their ſide, and that that day ſhould be his, and he doubted not but that God would fight for them; and thereupon drew up his battell in that ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rt as did beſt ſort with the ground where it was pitched, and the enemy did the like in another great field which was oppoſite to the place where our Army was. But the battell of the enemy was much ſooner in order then ours
+<pb facs="tcp:197857:4"/>by reaſon that they had nothing to hinder the drawing up of their men, and that our Carriages which were very many, ſo divided the Van from the Reare that it tooke up ſome time to bring them together, ſo as if the enemy had fallen upon us as ſoone as they were ready, we ſhould have beene in ſome hazzard, but they ſtood ſtill where they pitched their battell, and did not move forward: whereupon my Lord of <hi>Ormond</hi> gave order to Sir <hi>Charles Coote</hi> and the reſt of the Commanders and Officers according to their ſeverall charge to advance forward, which they moſt couragiouſly did, and came up to the field, where the enemy ſtood in battell array; and the ditches being levelled by our Pioners our Field-peeces were drawn up, and order given that they ſhould play upon the enemy, which was done, but with little or no loſſe unto them, onely the noiſe with which they were not much acquainted did ſeeme ſo to amaze them as they ſtood like ſo many ſtatues without life or motion. After this our Musketiers did their part, and ſoone after by di<g ref="char:EOLhyphen"/>rection from my Lord of <hi>Ormond,</hi> Sir <hi>Thomas Lucas,</hi> Sir <hi>Richard Greenowill,</hi> Sir <hi>Patricke Weames,</hi> Captaine <hi>Garnyer,</hi> Captaine <hi>Armeſtrong,</hi> and the reſt of the Captaines of Horſe did in an inſtant and ſo gallantly charge the Rebels that upon the ſudden they routed them, and had the execution of them for two or three miles, onely there was a great body of 2000. led by the Lord Vice<g ref="char:EOLhyphen"/>count <hi>Mountgarret</hi> and Generall <hi>Hugh Birne</hi> which wheeled about and thought to poſſeſſe themſelves of our Ordinance, Carriage, and Amunition, which my Lord of <hi>Ormond</hi> perceiving, he drew out one of his diviſions to at<g ref="char:EOLhyphen"/>tend that great body, and with them and ſome few volunteere Horſe, to the number of thirty, which were then with his Lordſhip (for all the reſt were following the excution) he faced that body, and within a ſhort time did like<g ref="char:EOLhyphen"/>wiſe breake them and put them to rout. There were ſix or ſeven hundred of them killed in the place, and very many wounded; and if our Horſe had not been harrowed by their journey to <hi>Birne</hi> the execution had been very great, but that &amp; the evening drawing on, and a great bog vvhich was neere, where<g ref="char:EOLhyphen"/>unto they did runne, did preſerve very many of them, vvho otherwiſe had been cut off: divers vvho have been in the battell, have aſſured me that the bog vvas all over blacke vvith them like a field in ſeed-time vvith Rookes. They loſt twenty Colours, and many Drums, all their Powder and Amuni<g ref="char:EOLhyphen"/>tion, the Lord Vicecount <hi>Montgarrets</hi> Waine drawn vvith eight Oxen, where all his proviſion vvas, his Sumpture, and the Lord of <hi>Ikernies</hi> Sumpture. There vvere many of note and quality ſlaine and vvounded in battell who were not knovvn, and only the heads of the Lord of <hi>Dunboyns</hi> brother, the Lord of <hi>Ikernis</hi> ſonne, and Colonell <hi>Cavenaghe,</hi> brought by ſome of the ſouldiers hi<g ref="char:EOLhyphen"/>ther. We did not looſe one of our Foot in this conflict, and very fevv of our Horſe.</p>
+            <p>This victory muſt be attributed vvholy to God, for we were not above two
+<pb facs="tcp:197857:5"/>thouſand Foot ſtrong, and 500. Horſe, in regard that very many of the Army vvhich went forth were ſick, and divers of them left in garriſon in the places which vvere releeved; and the enemy was at leaſt 300. Horſe, and 7000. Foot vvell appointed, beſides 2 or 3 thouſand more who were not ſo wel appointed but attended to doe execution if they had broken upon our men. They had likewiſe all the advantages that they could deſire, for our men and horſe were harrowed vvith long and continuall marches, but there men vvere freſh and vigorous, and all the day before haſtning to the fight like Lyons to the prey, <hi>parturiunt montes,</hi> &amp;c. They had the advantage of the ground being upon a hill, and our men forced to march up unto them, and they had likewiſe the Wind of us. But the Lord of Hoſts vvas on our ſide and tooke away their former ſpirits and reſolutions from them, having neither hearts nor reſolu<g ref="char:EOLhyphen"/>tions to fight, onely in the flight many of themſelves did kill one another, and ſome of them vvho eſcaped the battell, being afterward asked how they loſt the field, they ſaid that no reaſon could be given for it, but that God vvas on our ſide: The night before the battell, they vvere ſo confident of the victory, that they laid downe rules to vvhom quarter ſhould be given, and to vvhom not, and how the Wagons and ſpoiles ſhould be divided, and that after the defeate they ſhould march to this City of <hi>Dublin</hi> vvith our Colours, and fall upon it. If vve had loſt the day, the Kingdome certainely had been in great hazzard, and if that vve doe vvell conſider it, we ſhall finde this victory to be of as great honour to our ſide, and of as much conſequence, all things con<g ref="char:EOLhyphen"/>ſidered, as that vvhich was given at <hi>Kinſale,</hi> The Lord make us thankfull. Friday is appointed for a ſolemne day of due publike thanks in our Churches for this victory vvhich vvas got the laſt Friday, vvhich is the day of our pub<g ref="char:EOLhyphen"/>lique faſt and humiliation. And ſure vve vvere then in our Churches ſtriving with God like <hi>Moyſes</hi> in prayer at the time of the battell, and God heard us.</p>
+            <p>As ſoon as this victory was thus miraculouſly gained, and a retreat ſounded, the Earle of <hi>Ormond</hi> called together all the Commanders, Captaines, and Souldiers, and in the ſame place vvhere God ſhewed himſelf ſo gloriouſly for them they did give God ſolemne thanks, herein imitating <hi>Moſes</hi> and the chil<g ref="char:EOLhyphen"/>dren of <hi>Iſrael</hi> vvho being purſued by their enemies, and delivered from them, ſung this ſong unto the Lord, and ſpake ſaying, <hi>I will ſing unto the Lord, for he hath triumphed gloriouſly, the Horſe and his rider he hath thrown downe, &amp;c.</hi>
+            </p>
+            <p>I dare not venture to ſet forth the particular acts of every Commander and valiant ſouldier in this battell, but ſure every mans valour was ſuch that he who did beſt might envy his companion, every man ſtriving to out-goe each other in this common cauſe. I have tyred my ſelfe, and I doe beleeve that by this time I have tyred you, and yet I doe wiſh that the like ſubject may often fall out for me to write, and you to read; I commit you to God, and remaine,</p>
+            <closer>
+               <signed>Your faithfull friend, and ſervant, <hi>Mau. Euſtace.</hi>
+               </signed>
+               <dateline>Dublin <date>April 24. 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
